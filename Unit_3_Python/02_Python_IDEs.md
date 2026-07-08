@@ -44,7 +44,7 @@ flowchart TB
 For this course:
 
 - Use VS Code for editing notes and code.
-- Use Jupyter notebooks for Python and C++ experiments.
+- Use Jupyter notebooks for Python experiments and terminal C programs for Unit 2 practice.
 - Keep code examples small and test frequently.
 
 ## Workflow

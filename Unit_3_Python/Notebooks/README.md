@@ -10,15 +10,15 @@ Notebooks are meant for experimentation, not passive viewing. Run every cell, ch
 - [02 Control Flow and Data Structures](Python/02_Control_Flow_and_Data_Structures.ipynb)
 - [03 Data Visualization](Python/03_Data_Visualization.ipynb)
 
-## C++
+## C Programming
 
-- [01 C-Style Basics in C++](CPP/01_C_Style_Basics_in_CPP.ipynb)
-- [02 Control Flow and Arrays in C++](CPP/02_Control_Flow_and_Arrays_CPP.ipynb)
+For Unit 2 C programming, the recommended path is now terminal practice:
+
+- [C programs from terminal](../Programs/C/README.md)
 
 ## Kernels
 
 - Python notebooks use the `python3` kernel.
-- C++ notebooks use the `xcpp17` kernel from `xeus-cling`.
 
 ## Intensive Notebook Workflow
 
@@ -38,12 +38,9 @@ For each notebook:
 | Python Basics | input conversion, formatted output, type checks |
 | Python Control Flow and Data Structures | decision table, menu loop, dictionary/list problem |
 | Python Data Visualization | at least three chart types and written interpretations |
-| C-Style Basics in C++ | variables, input/output, operators, simple formulas |
-| Control Flow and Arrays in C++ | arrays, loops, grade logic, pattern printing |
 
 ## Troubleshooting
 
 - If a Python notebook does not run, check the selected kernel.
 - If imports fail, check whether the package is installed in the same environment as the kernel.
-- If C++ notebooks do not run, confirm that `xeus-cling` and the `xcpp17` kernel are installed.
 - Restart the kernel when outputs become confusing or variables from old cells interfere.

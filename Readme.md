@@ -1,6 +1,6 @@
 # Bridge Course
 
-This repository contains bridge-course notes, diagrams, practice tasks, and notebooks for computer fundamentals, C/C++ practice, Python, mathematics, data visualization, and computer architecture.
+This repository contains bridge-course notes, diagrams, practice tasks, terminal C programs, Python notebooks, mathematics, data visualization, and computer architecture.
 
 Most diagrams are written as Mermaid blocks, so they render in GitHub and VS Code Markdown preview.
 
@@ -16,6 +16,7 @@ flowchart TB
     R --> U5[Unit 5: Data Visualization]
     R --> U6[Unit 6: Computer Architecture]
     R --> NB[Notebooks]
+    R --> PR[Terminal Programs]
     R --> EX[Exercises]
 ```
 
@@ -91,8 +92,11 @@ flowchart TB
 - [Python Basics](Notebooks/Python/01_Python_Basics.ipynb)
 - [Python Control Flow and Data Structures](Notebooks/Python/02_Control_Flow_and_Data_Structures.ipynb)
 - [Python Data Visualization](Notebooks/Python/03_Data_Visualization.ipynb)
-- [C-Style Basics in C++](Notebooks/CPP/01_C_Style_Basics_in_CPP.ipynb)
-- [Control Flow and Arrays in C++](Notebooks/CPP/02_Control_Flow_and_Arrays_CPP.ipynb)
+
+## Terminal Programs
+
+- [Terminal program index](Programs/README.md)
+- [C programs from terminal](Programs/C/README.md)
 
 ## Supporting Material
 

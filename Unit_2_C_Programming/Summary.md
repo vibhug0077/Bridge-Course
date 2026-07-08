@@ -90,6 +90,6 @@ Required features:
 4. When would you use an array?
 5. Write a program to find the sum of the first `n` natural numbers.
 
-## Notebook
+## Terminal Practice
 
-- [C++ notebook with C-style basics](../Notebooks/CPP/01_C_Style_Basics_in_CPP.ipynb)
+- [C programs from terminal](../Programs/C/README.md)

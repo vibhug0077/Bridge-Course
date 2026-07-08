@@ -20,11 +20,11 @@ For an intensive bridge course, references should be used actively:
 - Bryant, Randal E. and O'Hallaron, David R. *Computer Systems: A Programmer's Perspective*.
 - Nisan, Noam and Schocken, Shimon. *The Elements of Computing Systems*.
 
-## C and C++
+## C Programming
 
 - Kernighan, Brian W. and Ritchie, Dennis M. *The C Programming Language*.
 - Prata, Stephen. *C Primer Plus*.
-- cppreference.com for C and C++ language reference.
+- cppreference.com for C language reference.
 - King, K. N. *C Programming: A Modern Approach*.
 - ISO C references and compiler documentation for implementation-specific behavior.
 
@@ -68,7 +68,7 @@ For an intensive bridge course, references should be used actively:
 ## Suggested Reading Path
 
 1. Beginners: course notes, official docs examples, Automate the Boring Stuff, Think Python.
-2. Programming depth: C Programming: A Modern Approach, The C Programming Language, cppreference.
+2. C programming depth: C Programming: A Modern Approach, The C Programming Language, cppreference.
 3. Systems depth: Computer Systems: A Programmer's Perspective, Computer Organization and Design.
 4. Mathematics depth: Discrete Mathematics and Its Applications, OpenIntro Statistics.
 5. Visualization depth: Storytelling with Data, The Truthful Art, ggplot2 documentation.
