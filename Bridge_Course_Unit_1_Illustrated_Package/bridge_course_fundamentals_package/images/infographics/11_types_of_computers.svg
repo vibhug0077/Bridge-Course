@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Types of Computers</title>
+<desc id="desc">Educational infographic: Types of Computers</desc>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.15"/></filter>
+</defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Types of Computers</text>
+<rect x="45" y="145" width="250" height="170" rx="18" fill="#247BA0" filter="url(#shadow)"/>
+<text x="170" y="200" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">PERSONAL COMPUTER</text>
+<text x="170" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">
+<tspan x="170" dy="0">One main user</tspan>
+<tspan x="170" dy="22">Desktop or laptop</tspan>
+</text>
+<rect x="335" y="145" width="250" height="170" rx="18" fill="#118A8A" filter="url(#shadow)"/>
+<text x="460" y="200" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">WORKSTATION</text>
+<text x="460" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">
+<tspan x="460" dy="0">Powerful professional</tspan>
+<tspan x="460" dy="22">computer</tspan>
+</text>
+<rect x="625" y="145" width="250" height="170" rx="18" fill="#6C5B7B" filter="url(#shadow)"/>
+<text x="750" y="200" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">SERVER</text>
+<text x="750" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">
+<tspan x="750" dy="0">Provides services</tspan>
+<tspan x="750" dy="22">to other computers</tspan>
+</text>
+<rect x="915" y="145" width="250" height="170" rx="18" fill="#F28F3B" filter="url(#shadow)"/>
+<text x="1040" y="200" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">MAINFRAME</text>
+<text x="1040" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">
+<tspan x="1040" dy="0">Many users and</tspan>
+<tspan x="1040" dy="22">large transactions</tspan>
+</text>
+<rect x="45" y="365" width="250" height="170" rx="18" fill="#4C956C" filter="url(#shadow)"/>
+<text x="170" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">SUPERCOMPUTER</text>
+<text x="170" y="473" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">
+<tspan x="170" dy="0">Complex scientific</tspan>
+<tspan x="170" dy="22">calculations</tspan>
+</text>
+<rect x="335" y="365" width="250" height="170" rx="18" fill="#D66BA0" filter="url(#shadow)"/>
+<text x="460" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">EMBEDDED SYSTEM</text>
+<text x="460" y="473" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">
+<tspan x="460" dy="0">Built inside another</tspan>
+<tspan x="460" dy="22">device</tspan>
+</text>
+<rect x="625" y="365" width="250" height="170" rx="18" fill="#C44536" filter="url(#shadow)"/>
+<text x="750" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">MOBILE COMPUTER</text>
+<text x="750" y="473" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">
+<tspan x="750" dy="0">Portable and</tspan>
+<tspan x="750" dy="22">battery powered</tspan>
+</text>
+<rect x="915" y="365" width="250" height="170" rx="18" fill="#12355B" filter="url(#shadow)"/>
+<text x="1040" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">WEARABLE</text>
+<text x="1040" y="473" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">
+<tspan x="1040" dy="0">Computer worn</tspan>
+<tspan x="1040" dy="22">on the body</tspan>
+</text>
+<text x="600.0" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals</text>
+</svg>

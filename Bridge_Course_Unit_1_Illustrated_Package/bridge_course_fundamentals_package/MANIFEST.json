@@ -1,0 +1,258 @@
+{
+  "file_count": 64,
+  "image_file_count": 60,
+  "files": [
+    {
+      "path": "01_Fundamentals_of_Computers.md",
+      "bytes": 37636
+    },
+    {
+      "path": "IMAGE_CREDITS.md",
+      "bytes": 3119
+    },
+    {
+      "path": "INFOGRAPHIC_CONTACT_SHEET.jpg",
+      "bytes": 297461
+    },
+    {
+      "path": "README.md",
+      "bytes": 969
+    },
+    {
+      "path": "images/external/abacus.jpg",
+      "bytes": 409777
+    },
+    {
+      "path": "images/external/basic_desktop.png",
+      "bytes": 130803
+    },
+    {
+      "path": "images/external/cern_server.jpg",
+      "bytes": 222350
+    },
+    {
+      "path": "images/external/columbia_supercomputer.jpg",
+      "bytes": 554386
+    },
+    {
+      "path": "images/external/desktop_system_diagram.png",
+      "bytes": 827409
+    },
+    {
+      "path": "images/external/embedded_computer.jpg",
+      "bytes": 296817
+    },
+    {
+      "path": "images/external/eniac.jpg",
+      "bytes": 623971
+    },
+    {
+      "path": "images/external/hardware_devices.png",
+      "bytes": 88106
+    },
+    {
+      "path": "images/external/ipo_cycle.png",
+      "bytes": 21880
+    },
+    {
+      "path": "images/external/motherboard.png",
+      "bytes": 626766
+    },
+    {
+      "path": "images/external/storage_hierarchy.png",
+      "bytes": 40510
+    },
+    {
+      "path": "images/infographics/01_data_to_decision.svg",
+      "bytes": 3331
+    },
+    {
+      "path": "images/infographics/02_five_functions.svg",
+      "bytes": 3493
+    },
+    {
+      "path": "images/infographics/03_ipo_storage_cycle.svg",
+      "bytes": 3850
+    },
+    {
+      "path": "images/infographics/04_system_components.svg",
+      "bytes": 3451
+    },
+    {
+      "path": "images/infographics/05_hardware_vs_software.svg",
+      "bytes": 3193
+    },
+    {
+      "path": "images/infographics/06_cpu_components.svg",
+      "bytes": 3164
+    },
+    {
+      "path": "images/infographics/07_memory_hierarchy.svg",
+      "bytes": 3530
+    },
+    {
+      "path": "images/infographics/08_input_devices.svg",
+      "bytes": 4150
+    },
+    {
+      "path": "images/infographics/09_output_devices.svg",
+      "bytes": 4141
+    },
+    {
+      "path": "images/infographics/10_storage_devices.svg",
+      "bytes": 3832
+    },
+    {
+      "path": "images/infographics/11_types_of_computers.svg",
+      "bytes": 4789
+    },
+    {
+      "path": "images/infographics/12_general_vs_special.svg",
+      "bytes": 2895
+    },
+    {
+      "path": "images/infographics/13_analogue_digital_hybrid.svg",
+      "bytes": 2882
+    },
+    {
+      "path": "images/infographics/14_computer_generations.svg",
+      "bytes": 4957
+    },
+    {
+      "path": "images/infographics/15_characteristics.svg",
+      "bytes": 3636
+    },
+    {
+      "path": "images/infographics/16_limitations.svg",
+      "bytes": 3509
+    },
+    {
+      "path": "images/infographics/17_applications.svg",
+      "bytes": 3913
+    },
+    {
+      "path": "images/infographics/18_atm_flow.svg",
+      "bytes": 3966
+    },
+    {
+      "path": "images/infographics/19_result_system.svg",
+      "bytes": 3412
+    },
+    {
+      "path": "images/infographics/20_safe_computing.svg",
+      "bytes": 3096
+    },
+    {
+      "path": "images/infographics/21_gigo.svg",
+      "bytes": 2861
+    },
+    {
+      "path": "images/infographics/22_network_communication.svg",
+      "bytes": 3114
+    },
+    {
+      "path": "images/infographics/23_software_categories.svg",
+      "bytes": 3630
+    },
+    {
+      "path": "images/infographics/24_lab_classification.svg",
+      "bytes": 6998
+    },
+    {
+      "path": "images/infographics/png/01_data_to_decision.png",
+      "bytes": 46969
+    },
+    {
+      "path": "images/infographics/png/02_five_functions.png",
+      "bytes": 66035
+    },
+    {
+      "path": "images/infographics/png/03_ipo_storage_cycle.png",
+      "bytes": 49439
+    },
+    {
+      "path": "images/infographics/png/04_system_components.png",
+      "bytes": 53029
+    },
+    {
+      "path": "images/infographics/png/05_hardware_vs_software.png",
+      "bytes": 53933
+    },
+    {
+      "path": "images/infographics/png/06_cpu_components.png",
+      "bytes": 42743
+    },
+    {
+      "path": "images/infographics/png/07_memory_hierarchy.png",
+      "bytes": 41171
+    },
+    {
+      "path": "images/infographics/png/08_input_devices.png",
+      "bytes": 51680
+    },
+    {
+      "path": "images/infographics/png/09_output_devices.png",
+      "bytes": 49691
+    },
+    {
+      "path": "images/infographics/png/10_storage_devices.png",
+      "bytes": 55640
+    },
+    {
+      "path": "images/infographics/png/11_types_of_computers.png",
+      "bytes": 62181
+    },
+    {
+      "path": "images/infographics/png/12_general_vs_special.png",
+      "bytes": 53442
+    },
+    {
+      "path": "images/infographics/png/13_analogue_digital_hybrid.png",
+      "bytes": 47919
+    },
+    {
+      "path": "images/infographics/png/14_computer_generations.png",
+      "bytes": 53102
+    },
+    {
+      "path": "images/infographics/png/15_characteristics.png",
+      "bytes": 68358
+    },
+    {
+      "path": "images/infographics/png/16_limitations.png",
+      "bytes": 49596
+    },
+    {
+      "path": "images/infographics/png/17_applications.png",
+      "bytes": 44235
+    },
+    {
+      "path": "images/infographics/png/18_atm_flow.png",
+      "bytes": 45100
+    },
+    {
+      "path": "images/infographics/png/19_result_system.png",
+      "bytes": 46975
+    },
+    {
+      "path": "images/infographics/png/20_safe_computing.png",
+      "bytes": 49909
+    },
+    {
+      "path": "images/infographics/png/21_gigo.png",
+      "bytes": 41489
+    },
+    {
+      "path": "images/infographics/png/22_network_communication.png",
+      "bytes": 47392
+    },
+    {
+      "path": "images/infographics/png/23_software_categories.png",
+      "bytes": 56798
+    },
+    {
+      "path": "images/infographics/png/24_lab_classification.png",
+      "bytes": 41529
+    }
+  ]
+}

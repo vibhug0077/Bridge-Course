@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Five Core Functions of a Computer</title>
+<desc id="desc">Educational infographic: Five Core Functions of a Computer</desc>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.15"/></filter>
+</defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Five Core Functions of a Computer</text>
+<circle cx="180" cy="220" r="105" fill="#247BA0" filter="url(#shadow)"/>
+<text x="180" y="215" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="white">INPUT</text>
+<text x="180" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">Receives data</text>
+<circle cx="600" cy="180" r="105" fill="#F28F3B" filter="url(#shadow)"/>
+<text x="600" y="175" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="white">PROCESSING</text>
+<text x="600" y="212" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">Transforms data</text>
+<circle cx="1020" cy="220" r="105" fill="#4C956C" filter="url(#shadow)"/>
+<text x="1020" y="215" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="white">OUTPUT</text>
+<text x="1020" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">Presents results</text>
+<circle cx="380" cy="480" r="105" fill="#6C5B7B" filter="url(#shadow)"/>
+<text x="380" y="475" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="white">STORAGE</text>
+<text x="380" y="512" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">Keeps data</text>
+<circle cx="820" cy="480" r="105" fill="#118A8A" filter="url(#shadow)"/>
+<text x="820" y="475" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="white">COMMUNICATION</text>
+<text x="820" y="512" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="white">Exchanges data</text>
+<line x1="180" y1="220" x2="600" y2="180" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="600" y1="180" x2="1020" y2="220" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="600" y1="180" x2="380" y2="480" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="600" y1="180" x2="820" y2="480" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="380" y1="480" x2="600" y2="180" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="820" y1="480" x2="600" y2="180" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="600.0" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals</text>
+</svg>

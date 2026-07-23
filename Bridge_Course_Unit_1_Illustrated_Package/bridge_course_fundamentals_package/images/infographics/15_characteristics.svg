@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Key Characteristics of Computers</title>
+<desc id="desc">Educational infographic: Key Characteristics of Computers</desc>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.15"/></filter>
+</defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Key Characteristics of Computers</text>
+<circle cx="600" cy="345" r="105" fill="#12355B" filter="url(#shadow)"/>
+<text x="600" y="335" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="white">COMPUTER</text>
+<text x="600" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">CAPABILITIES</text>
+<circle cx="600" cy="145" r="68" fill="#C44536" filter="url(#shadow)"/>
+<text x="600" y="151" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="white">Speed</text>
+<line x1="600" y1="145" x2="600" y2="345" stroke="#5B677A" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="850" cy="210" r="68" fill="#F28F3B" filter="url(#shadow)"/>
+<text x="850" y="216" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="white">Accuracy</text>
+<line x1="850" y1="210" x2="600" y2="345" stroke="#5B677A" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="960" cy="415" r="68" fill="#F6BD60" filter="url(#shadow)"/>
+<text x="960" y="421" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1F2937">Diligence</text>
+<line x1="960" y1="415" x2="600" y2="345" stroke="#5B677A" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="740" cy="545" r="68" fill="#4C956C" filter="url(#shadow)"/>
+<text x="740" y="551" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="white">Storage</text>
+<line x1="740" y1="545" x2="600" y2="345" stroke="#5B677A" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="460" cy="545" r="68" fill="#118A8A" filter="url(#shadow)"/>
+<text x="460" y="551" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="white">Automation</text>
+<line x1="460" y1="545" x2="600" y2="345" stroke="#5B677A" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="240" cy="415" r="68" fill="#247BA0" filter="url(#shadow)"/>
+<text x="240" y="421" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="white">Versatility</text>
+<line x1="240" y1="415" x2="600" y2="345" stroke="#5B677A" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="350" cy="210" r="68" fill="#6C5B7B" filter="url(#shadow)"/>
+<text x="350" y="216" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="white">Connectivity</text>
+<line x1="350" y1="210" x2="600" y2="345" stroke="#5B677A" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="600.0" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals</text>
+</svg>

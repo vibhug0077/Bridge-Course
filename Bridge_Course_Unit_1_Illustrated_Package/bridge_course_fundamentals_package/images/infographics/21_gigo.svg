@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Garbage In, Garbage Out — GIGO</title>
+<desc id="desc">Educational infographic: Garbage In, Garbage Out — GIGO</desc>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.15"/></filter>
+</defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Garbage In, Garbage Out — GIGO</text>
+<rect x="90" y="220" width="290" height="220" rx="18" fill="#C44536" filter="url(#shadow)"/>
+<text x="235" y="275" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="white">WRONG INPUT</text>
+<text x="235" y="340" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="white">
+<tspan x="235" dy="0">Incorrect data</tspan>
+<tspan x="235" dy="24">or assumptions</tspan>
+</text>
+<rect x="455" y="220" width="290" height="220" rx="18" fill="#F28F3B" filter="url(#shadow)"/>
+<text x="600" y="275" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="white">PROCESSING</text>
+<text x="600" y="340" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="white">
+<tspan x="600" dy="0">The computer follows</tspan>
+<tspan x="600" dy="24">the given logic</tspan>
+</text>
+<rect x="820" y="220" width="290" height="220" rx="18" fill="#C44536" filter="url(#shadow)"/>
+<text x="965" y="275" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="white">WRONG OUTPUT</text>
+<text x="965" y="340" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="white">
+<tspan x="965" dy="0">Fast and consistent</tspan>
+<tspan x="965" dy="24">but still incorrect</tspan>
+</text>
+<line x1="380" y1="330" x2="445" y2="330" stroke="#5B677A" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="745" y1="330" x2="810" y2="330" stroke="#5B677A" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="600" y="530" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#12355B">Accuracy requires correct input, correct logic and functioning hardware.</text>
+<text x="600.0" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals</text>
+</svg>
