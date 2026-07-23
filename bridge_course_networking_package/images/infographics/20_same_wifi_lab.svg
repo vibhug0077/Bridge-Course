@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.14"/></filter></defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Lab: Connect Two Computers on the Same Wi-Fi</text>
+<rect x="50" y="160" width="250" height="135" rx="18" fill="#DCEFFC" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="175.0" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Computer A</text>
+<text x="175.0" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Example IPv4:</text>
+<text x="175.0" y="251" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">192.168.1.23/24</text>
+<rect x="475" y="160" width="250" height="135" rx="18" fill="#FCE9D8" stroke="#F28F3B" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="600.0" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Wi-Fi Router</text>
+<text x="600.0" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Gateway example:</text>
+<text x="600.0" y="251" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">192.168.1.1</text>
+<rect x="900" y="160" width="250" height="135" rx="18" fill="#DFF2E5" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1025.0" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Computer B</text>
+<text x="1025.0" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Example IPv4:</text>
+<text x="1025.0" y="251" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">192.168.1.54/24</text>
+<line x1="300" y1="225" x2="475" y2="225" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="387.5" y="215.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#5B677A">Wi-Fi</text>
+<line x1="725" y1="225" x2="900" y2="225" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="812.5" y="215.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#5B677A">Wi-Fi</text>
+<circle cx="85" cy="390" r="25" fill="#247BA0"/>
+<text x="85" y="397" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">1</text>
+<text x="125" y="383" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">Join the same trusted Wi-Fi</text>
+<text x="125" y="404" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">network.</text>
+<circle cx="465" cy="390" r="25" fill="#4C956C"/>
+<text x="465" y="397" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">2</text>
+<text x="505" y="383" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">Find each computer’s IPv4</text>
+<text x="505" y="404" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">address and subnet.</text>
+<circle cx="845" cy="390" r="25" fill="#F28F3B"/>
+<text x="845" y="397" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">3</text>
+<text x="885" y="383" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">Confirm the addresses belong to</text>
+<text x="885" y="404" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">the same subnet.</text>
+<circle cx="85" cy="510" r="25" fill="#6C5B7B"/>
+<text x="85" y="517" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">4</text>
+<text x="125" y="503" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">Ping the other computer or test</text>
+<text x="125" y="524" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">a specific TCP port.</text>
+<circle cx="465" cy="510" r="25" fill="#D1495B"/>
+<text x="465" y="517" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">5</text>
+<text x="505" y="503" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">Start a temporary service or</text>
+<text x="505" y="524" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">share a folder.</text>
+<circle cx="845" cy="510" r="25" fill="#118A8A"/>
+<text x="845" y="517" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="white">6</text>
+<text x="885" y="503" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">Stop sharing and restore</text>
+<text x="885" y="524" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1C2733">settings after the lab.</text>
+<text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals • Networking and Internet</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.14"/></filter></defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Network Types by Geographic Coverage</text>
+<circle cx="190" cy="305" r="80" fill="none" stroke="#247BA0" stroke-width="14" opacity="0.85"/>
+<text x="190" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#247BA0">PAN</text>
+<text x="190" y="325" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1C2733">Personal Area Network</text>
+<text x="190" y="475" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#247BA0">Around one person</text>
+<text x="190" y="505" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#5B677A">Bluetooth earbuds, smartwatch</text>
+<circle cx="470" cy="305" r="92" fill="none" stroke="#4C956C" stroke-width="14" opacity="0.85"/>
+<text x="470" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#4C956C">LAN</text>
+<text x="470" y="325" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1C2733">Local Area Network</text>
+<text x="470" y="475" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#4C956C">Room, building, campus</text>
+<text x="470" y="505" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#5B677A">Home Wi-Fi, computer lab</text>
+<circle cx="750" cy="305" r="104" fill="none" stroke="#F28F3B" stroke-width="14" opacity="0.85"/>
+<text x="750" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#F28F3B">MAN</text>
+<text x="750" y="325" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1C2733">Metropolitan Area Network</text>
+<text x="750" y="475" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">Across a city</text>
+<text x="750" y="505" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#5B677A">City-wide institutional network</text>
+<circle cx="1030" cy="305" r="116" fill="none" stroke="#6C5B7B" stroke-width="14" opacity="0.85"/>
+<text x="1030" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#6C5B7B">WAN</text>
+<text x="1030" y="325" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1C2733">Wide Area Network</text>
+<text x="1030" y="475" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#6C5B7B">Countries or continents</text>
+<text x="1030" y="505" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#5B677A">Bank branches, the Internet</text>
+<text x="600" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1C2733">The categories describe typical scale. Real networks may overlap or combine several categories.</text>
+<text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals • Networking and Internet</text>
+</svg>

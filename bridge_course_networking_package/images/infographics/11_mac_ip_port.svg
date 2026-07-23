@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.14"/></filter></defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">MAC Address, IP Address, and Port Number</text>
+<rect x="65" y="155" width="330" height="390" rx="18" fill="#DCEFFC" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="230.0" y="189" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">MAC Address</text>
+<text x="230.0" y="223" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Identifies a network interface</text>
+<text x="230.0" y="246" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">for local link communication.</text>
+<text x="230.0" y="269" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Switches learn which MAC</text>
+<text x="230.0" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">addresses are reachable through</text>
+<text x="230.0" y="315" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">their ports.</text>
+<text x="230.0" y="338" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A"></text>
+<text x="230.0" y="361" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Example: 3C-52-82-A1-B7-09</text>
+<rect x="435" y="155" width="330" height="390" rx="18" fill="#DFF2E5" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="600.0" y="189" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">IP Address</text>
+<text x="600.0" y="223" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Identifies an interface at the</text>
+<text x="600.0" y="246" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">network layer and supports</text>
+<text x="600.0" y="269" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">communication across networks.</text>
+<text x="600.0" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Routers use IP destinations to</text>
+<text x="600.0" y="315" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">forward packets.</text>
+<text x="600.0" y="338" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A"></text>
+<text x="600.0" y="361" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Example: 192.168.1.23</text>
+<rect x="805" y="155" width="330" height="390" rx="18" fill="#FCE9D8" stroke="#F28F3B" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="970.0" y="189" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Port Number</text>
+<text x="970.0" y="223" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Identifies a service or</text>
+<text x="970.0" y="246" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">application endpoint on a</text>
+<text x="970.0" y="269" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">device. TCP and UDP use port</text>
+<text x="970.0" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">numbers.</text>
+<text x="970.0" y="315" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A"></text>
+<text x="970.0" y="338" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Example: HTTPS commonly uses</text>
+<text x="970.0" y="361" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">TCP port 443.</text>
+<text x="600" y="590" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1C2733">A useful analogy: IP = building address, port = room number, MAC = local delivery label used on the current link.</text>
+<text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals • Networking and Internet</text>
+</svg>

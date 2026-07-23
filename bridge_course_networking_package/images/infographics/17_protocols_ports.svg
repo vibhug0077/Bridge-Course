@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.14"/></filter></defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Common Protocols and Port Numbers</text>
+<rect x="90" y="125" width="1020" height="50" fill="#FFFFFF"/>
+<text x="130" y="157" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#12355B">HTTP</text>
+<text x="370" y="157" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">80/TCP</text>
+<text x="600" y="157" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#1C2733">Unencrypted web traffic</text>
+<rect x="90" y="182" width="1020" height="50" fill="#EAF0F5"/>
+<text x="130" y="214" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#12355B">HTTPS</text>
+<text x="370" y="214" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">443/TCP</text>
+<text x="600" y="214" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#1C2733">Encrypted web traffic</text>
+<rect x="90" y="239" width="1020" height="50" fill="#FFFFFF"/>
+<text x="130" y="271" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#12355B">DNS</text>
+<text x="370" y="271" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">53/UDP or TCP</text>
+<text x="600" y="271" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#1C2733">Name resolution</text>
+<rect x="90" y="296" width="1020" height="50" fill="#EAF0F5"/>
+<text x="130" y="328" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#12355B">DHCP</text>
+<text x="370" y="328" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">67/68 UDP</text>
+<text x="600" y="328" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#1C2733">Automatic network configuration</text>
+<rect x="90" y="353" width="1020" height="50" fill="#FFFFFF"/>
+<text x="130" y="385" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#12355B">SSH / SFTP</text>
+<text x="370" y="385" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">22/TCP</text>
+<text x="600" y="385" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#1C2733">Secure terminal and file transfer</text>
+<rect x="90" y="410" width="1020" height="50" fill="#EAF0F5"/>
+<text x="130" y="442" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#12355B">SMTP</text>
+<text x="370" y="442" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">25/TCP</text>
+<text x="600" y="442" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#1C2733">Mail transfer between servers</text>
+<rect x="90" y="467" width="1020" height="50" fill="#FFFFFF"/>
+<text x="130" y="499" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#12355B">NTP</text>
+<text x="370" y="499" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">123/UDP</text>
+<text x="600" y="499" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#1C2733">Time synchronisation</text>
+<rect x="90" y="524" width="1020" height="50" fill="#EAF0F5"/>
+<text x="130" y="556" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#12355B">SMB</text>
+<text x="370" y="556" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F28F3B">445/TCP</text>
+<text x="600" y="556" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#1C2733">Windows-style network file sharing</text>
+<text x="600" y="610" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#5B677A">Port numbers are conventions, not guarantees. A service can be configured on another port, and firewalls may block it.</text>
+<text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals • Networking and Internet</text>
+</svg>

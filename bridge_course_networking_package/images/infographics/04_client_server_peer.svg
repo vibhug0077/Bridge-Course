@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.14"/></filter></defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Client–Server and Peer-to-Peer Networks</text>
+<rect x="50" y="140" width="510" height="420" rx="18" fill="#DCEFFC" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="305.0" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Client–Server</text>
+<text x="305.0" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">A central server provides services, files,</text>
+<text x="305.0" y="231" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">authentication, or databases. Clients request</text>
+<text x="305.0" y="254" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">those services. This model is easier to manage</text>
+<text x="305.0" y="277" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">centrally and is common in universities, banks,</text>
+<text x="305.0" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">websites, and companies.</text>
+<circle cx="305" cy="350" r="72" fill="#12355B" filter="url(#shadow)"/>
+<text x="305" y="348" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="white">SERVER</text>
+<rect x="85" y="205" width="130" height="80" rx="18" fill="#FFFFFF" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="150.0" y="239" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1C2733">Client A</text>
+<line x1="150" y1="245" x2="305" y2="350" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="390" y="205" width="130" height="80" rx="18" fill="#FFFFFF" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="455.0" y="239" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1C2733">Client B</text>
+<line x1="455" y1="245" x2="305" y2="350" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="85" y="430" width="130" height="80" rx="18" fill="#FFFFFF" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="150.0" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1C2733">Client C</text>
+<line x1="150" y1="470" x2="305" y2="350" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="390" y="430" width="130" height="80" rx="18" fill="#FFFFFF" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="455.0" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1C2733">Client D</text>
+<line x1="455" y1="470" x2="305" y2="350" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="640" y="140" width="510" height="420" rx="18" fill="#DFF2E5" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="895.0" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Peer-to-Peer</text>
+<text x="895.0" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Each computer can act as both a requester and a</text>
+<text x="895.0" y="231" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">provider. Peers may share files directly without</text>
+<text x="895.0" y="254" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">a permanent central server. It is simple for</text>
+<text x="895.0" y="277" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">small temporary networks but becomes harder to</text>
+<text x="895.0" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">control as the number of devices grows.</text>
+<rect x="695" y="230" width="130" height="80" rx="18" fill="#FFFFFF" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="760.0" y="264" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1C2733">Peer A</text>
+<rect x="965" y="230" width="130" height="80" rx="18" fill="#FFFFFF" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1030.0" y="264" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1C2733">Peer B</text>
+<rect x="695" y="430" width="130" height="80" rx="18" fill="#FFFFFF" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="760.0" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1C2733">Peer C</text>
+<rect x="965" y="430" width="130" height="80" rx="18" fill="#FFFFFF" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1030.0" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#1C2733">Peer D</text>
+<line x1="760" y1="270" x2="1030" y2="270" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="760" y1="270" x2="760" y2="470" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1030" y1="270" x2="1030" y2="470" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="760" y1="470" x2="1030" y2="470" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="760" y1="270" x2="1030" y2="470" stroke="#5B677A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals • Networking and Internet</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.14"/></filter></defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Why Do We Build Networks?</text>
+<rect x="55" y="140" width="330" height="170" rx="18" fill="#DCEFFC" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="220.0" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Communication</text>
+<text x="220.0" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Email, chat, video calls, and</text>
+<text x="220.0" y="231" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">collaboration</text>
+<rect x="437" y="140" width="330" height="170" rx="18" fill="#DFF2E5" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="602.0" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Resource Sharing</text>
+<text x="602.0" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Printers, files, storage, and</text>
+<text x="602.0" y="231" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">software</text>
+<rect x="819" y="140" width="330" height="170" rx="18" fill="#FCE9D8" stroke="#F28F3B" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="984.0" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Central Management</text>
+<text x="984.0" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Accounts, updates, security</text>
+<text x="984.0" y="231" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">policies, and backups</text>
+<rect x="55" y="370" width="330" height="170" rx="18" fill="#EAE3F1" stroke="#6C5B7B" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="220.0" y="404" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Remote Access</text>
+<text x="220.0" y="438" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Use services from another room,</text>
+<text x="220.0" y="461" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">city, or country</text>
+<rect x="437" y="370" width="330" height="170" rx="18" fill="#F8DEE2" stroke="#D1495B" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="602.0" y="404" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Scalability</text>
+<text x="602.0" y="438" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Add devices and services</text>
+<text x="602.0" y="461" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">without redesigning everything</text>
+<rect x="819" y="370" width="330" height="170" rx="18" fill="#DCEFFC" stroke="#118A8A" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="984.0" y="404" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1C2733">Reliability</text>
+<text x="984.0" y="438" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Use alternative links,</text>
+<text x="984.0" y="461" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">replicas, and recovery systems</text>
+<text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals • Networking and Internet</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.14"/></filter></defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">How Signals Travel: Wired and Wireless Media</text>
+<rect x="65" y="165" width="250" height="365" rx="18" fill="#DCEFFC" stroke="#247BA0" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="190.0" y="199" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1C2733">Twisted-Pair</text>
+<text x="190.0" y="223" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1C2733">Ethernet</text>
+<text x="190.0" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Copper cable with RJ45</text>
+<text x="190.0" y="278" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">connectors. Common in</text>
+<text x="190.0" y="301" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">homes, labs, and</text>
+<text x="190.0" y="324" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">offices. Reliable and</text>
+<text x="190.0" y="347" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">usually low-latency.</text>
+<rect x="347" y="165" width="250" height="365" rx="18" fill="#DFF2E5" stroke="#4C956C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="472.0" y="199" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1C2733">Fibre-Optic Cable</text>
+<text x="472.0" y="231" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Carries light instead</text>
+<text x="472.0" y="254" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">of electrical signals.</text>
+<text x="472.0" y="277" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Supports long</text>
+<text x="472.0" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">distances, high</text>
+<text x="472.0" y="323" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">capacity, and</text>
+<text x="472.0" y="346" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">resistance to</text>
+<text x="472.0" y="369" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">electromagnetic</text>
+<text x="472.0" y="392" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">interference.</text>
+<rect x="629" y="165" width="250" height="365" rx="18" fill="#FCE9D8" stroke="#F28F3B" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="754.0" y="199" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1C2733">Wi-Fi</text>
+<text x="754.0" y="231" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Uses radio waves</text>
+<text x="754.0" y="254" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">through an access</text>
+<text x="754.0" y="277" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">point. Convenient and</text>
+<text x="754.0" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">mobile, but performance</text>
+<text x="754.0" y="323" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">changes with distance,</text>
+<text x="754.0" y="346" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">walls, interference,</text>
+<text x="754.0" y="369" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">and congestion.</text>
+<rect x="911" y="165" width="250" height="365" rx="18" fill="#EAE3F1" stroke="#6C5B7B" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1036.0" y="199" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1C2733">Cellular /</text>
+<text x="1036.0" y="223" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1C2733">Satellite</text>
+<text x="1036.0" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">Connects devices over</text>
+<text x="1036.0" y="278" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">wide areas. Useful</text>
+<text x="1036.0" y="301" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">where fixed cables are</text>
+<text x="1036.0" y="324" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">unavailable, but</text>
+<text x="1036.0" y="347" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">latency and cost may be</text>
+<text x="1036.0" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5B677A">higher.</text>
+<text x="600" y="575" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#1C2733">The best medium depends on distance, mobility, speed, reliability, cost, and the physical environment.</text>
+<text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals • Networking and Internet</text>
+</svg>

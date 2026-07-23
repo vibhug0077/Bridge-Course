@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#5B677A"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.14"/></filter></defs>
+<rect width="1200" height="675" fill="#F5F7FA"/>
+<rect width="1200" height="86" fill="#12355B"/>
+<text x="48" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="white">Encapsulation: Data Gains Headers as It Moves Down the Stack</text>
+<rect x="510.0" y="140" width="180" height="70" rx="14" fill="#6C5B7B" filter="url(#shadow)"/>
+<text x="600" y="183" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="white">Application Data</text>
+<line x1="600" y1="212" x2="600" y2="248" stroke="#5B677A" stroke-width="3" stroke-dasharray="9 7" marker-end="url(#arrow)"/>
+<text x="600.0" y="220.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#5B677A">Add header</text>
+<rect x="440.0" y="255" width="320" height="70" rx="14" fill="#F28F3B" filter="url(#shadow)"/>
+<text x="600" y="298" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="white">TCP/UDP Segment</text>
+<line x1="600" y1="327" x2="600" y2="363" stroke="#5B677A" stroke-width="3" stroke-dasharray="9 7" marker-end="url(#arrow)"/>
+<text x="600.0" y="335.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#5B677A">Add header</text>
+<rect x="370.0" y="370" width="460" height="70" rx="14" fill="#4C956C" filter="url(#shadow)"/>
+<text x="600" y="413" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="white">IP Packet</text>
+<line x1="600" y1="442" x2="600" y2="478" stroke="#5B677A" stroke-width="3" stroke-dasharray="9 7" marker-end="url(#arrow)"/>
+<text x="600.0" y="450.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#5B677A">Add header</text>
+<rect x="300.0" y="485" width="600" height="70" rx="14" fill="#247BA0" filter="url(#shadow)"/>
+<text x="600" y="528" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="white">Ethernet/Wi-Fi Frame</text>
+<text x="75" y="175" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#6C5B7B">Message</text>
+<text x="75" y="290" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#5B677A">Transport adds ports and delivery information</text>
+<text x="75" y="405" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#5B677A">Internet layer adds source and destination IP addresses</text>
+<text x="75" y="520" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#5B677A">Link layer adds local delivery addresses and error checking</text>
+<text x="600" y="610" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1C2733">At the receiver, the headers are read and removed in reverse order. This is called decapsulation.</text>
+<text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5B677A">Bridge Course • Unit 1: Computer Fundamentals • Networking and Internet</text>
+</svg>
